@@ -4,16 +4,17 @@
 <table>
     <tr>
         <td>
-            <a href=""><img src="./Assets/resources/Steam-logo.png" height="50"></a>
+            <a href=""><img src="./Assets/resources/Steam-logo.png"></a>
         </td>
         <td>
-            <a href="https://ava.moe/"><img src="./Assets/resources/Avalive-logo.png" height="50"></a>
+            <a href="https://ava.moe/"><img src="./Assets/resources/Avalive-logo.png"></a>
         </td>
         <td>
-            <a href="https://www.youtube.com/channel/UCv8I7x73RXZjGImJvMS6DbQ"><img src="./Assets/resources/YouTube-logo.png" height="60"></a>
+            <a href="https://www.youtube.com/channel/UCv8I7x73RXZjGImJvMS6DbQ"><img src="./Assets/resources/YouTube-logo.png"></a>
         </td>
     </tr>
 </table>
+
 
 [English](README.md) | [简体中文](README_zh-Hans.md) | [繁體中文](README_zh-Hant.md) | 日本語
 
