@@ -1,11 +1,29 @@
 # Avalive
 
-Avalive is an avatar role-playing software. It allows the avatar's expression to be synchronized with your expression in real time through the camera, allowing you to play a virtual character. You can use it for live streaming, creating videos and animations, and more.
-
 <img src="./Assets/Resources/Avalive-460x215.png" width = "300"/>
 
 <a href="https://www.youtube.com/channel/UCv8I7x73RXZjGImJvMS6DbQ"><img src="https://s.ytimg.com/yts/img/favicon_48-vflVjB_Qk.png"></a>
 
+## Introduction
+
+Avalive is an avatar role-playing software. It allows the avatar's expression to be synchronized with your expression in real time through the camera, allowing you to play a virtual character. You can use it for live streaming, creating videos and animations, and more.
+
+## Scenes
+
+* Avatars: it allows you to become a VTuber, virtual anchor and virtual video creator. (Requires webcam support)
+* Poster: It's like a Yuru-chara, you can interact with it without a camera.
+
+## Features
+
+* Support English, Chinese and Japanese
+* Support for Windows and MacOS
+* Support for live broadcast using OBS, Streamlabs, XSplit, etc.
+* Multiple Avatars and backgrounds
+* Capture facial expressions and head movements
+* Mouse tracking
+* Lip tracking
+* Automatic breathing
+* Automatic blink
 
 ## Videos
 
