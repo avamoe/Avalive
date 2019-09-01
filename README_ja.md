@@ -7,10 +7,10 @@
             <a><img src="https://raw.githubusercontent.com/avamoe/Avalive/master/Assets/Resources/Steam-logo.png" height = "50"></a>
         </td>
         <td>
-            <a href="https://ava.moe/"><img src="https://raw.githubusercontent.com/avamoe/Avalive/master/Assets/Resources/Avalive-logo.png" height = "50"></a>
+            <a href="https://ava.moe/" target="_blank"><img src="https://raw.githubusercontent.com/avamoe/Avalive/master/Assets/Resources/Avalive-logo.png" height = "50"></a>
         </td>
         <td>
-            <a href="https://www.youtube.com/channel/UCv8I7x73RXZjGImJvMS6DbQ"><img src="https://raw.githubusercontent.com/avamoe/Avalive/master/Assets/Resources/YouTube-logo.png" height = "60"></a>
+            <a href="https://www.youtube.com/channel/UCv8I7x73RXZjGImJvMS6DbQ" target="_blank"><img src="https://raw.githubusercontent.com/avamoe/Avalive/master/Assets/Resources/YouTube-logo.png" height = "60"></a>
         </td>
     </tr>
 </table>
