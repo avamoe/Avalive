@@ -4,6 +4,8 @@
 
 <a href="https://www.youtube.com/channel/UCv8I7x73RXZjGImJvMS6DbQ"><img src="https://s.ytimg.com/yts/img/favicon_48-vflVjB_Qk.png"></a>
 
+English | [简体中文](README_zh-Hans.md) | [繁體中文](README_zh-Hant.md) | [日本語](README_ja.md)
+
 ## Introduction
 
 Avalive is an avatar role-playing software. It allows the avatar's expression to be synchronized with your expression in real time through the camera, allowing you to play a virtual character. You can use it for live streaming, creating videos and animations, and more.
@@ -15,7 +17,7 @@ Avalive is an avatar role-playing software. It allows the avatar's expression to
 
 ## Features
 
-* Support English, Chinese and Japanese
+* Support English, Simplified Chinese, Traditional Chinese, Japanese
 * Support for Windows and MacOS
 * Support for live broadcast using OBS, Streamlabs, XSplit, etc.
 * Multiple Avatars and backgrounds
