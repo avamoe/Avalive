@@ -4,7 +4,7 @@
 <table>
     <tr>
         <td>
-            <a><img src="https://raw.githubusercontent.com/avamoe/Avalive/master/Assets/Resources/Steam-logo.png" height = "50"></a>
+            <a href="https://store.steampowered.com/app/1137770/Avalive/"><img src="https://raw.githubusercontent.com/avamoe/Avalive/master/Assets/Resources/Steam-logo.png" height = "50"></a>
         </td>
         <td>
             <a href="https://ava.moe/"><img src="https://raw.githubusercontent.com/avamoe/Avalive/master/Assets/Resources/Avalive-logo.png" height = "50"></a>
