@@ -1,0 +1,9 @@
+{
+	"type": "Live2D Model Setting",
+	"name": "haru_greeter_t03",
+	"model": "haru_greeter_t03.moc",
+	"textures": [
+		"haru_greeter_t03.1024/texture_00.png",
+		"haru_greeter_t03.1024/texture_01.png"
+	]
+}
