@@ -1,6 +1,6 @@
 # 用户文档
 
-[English](Doc/UserDocumentation.md) | 简体中文
+[English](https://github.com/avamoe/Avalive/blob/master/Doc/UserDocumentation.md) | 简体中文
 
 ## 使用指南
 
