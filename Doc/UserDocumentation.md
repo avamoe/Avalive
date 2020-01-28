@@ -44,7 +44,7 @@ You can import **Live2d version 2** models.
 
 Files marked with **an asterisk ( * )** are required. **Physical and pose files without an asterisk ( * ) can be empty**.
 
-The **icon file** is a button icon displayed in avatars.
+The **icon file** is a button icon displayed in avatars. We recommend that you use 100*100 pixels.
 
 You can **select multiple texture files**, and each path is separated by a semicolon ( ; ) .
 
@@ -59,6 +59,10 @@ Then you need to return to the start scene (changing the language) and **re-ente
 #### Avatar Import Background
 
 Importing the background is similar to importing the model, all the files with **asterisks ( * ) are required**.
+
+The **icon file** is a button icon displayed in Backgrounds. We recommend that you use 100*100 pixels.
+
+The **background file** is the background image of Avalive. We recommend that you use 1920*1080 pixels.
 
 ![](../Assets/Resources/Avalive-Tutorial7.png)
 
