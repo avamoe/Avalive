@@ -1,5 +1,7 @@
 # 用户文档
 
+[English](Doc/UserDocumentation.md) | 简体中文
+
 ## 使用指南
 
 ### 开始

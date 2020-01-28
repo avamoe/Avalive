@@ -1,5 +1,7 @@
 # User Documentation
 
+English | [简体中文](Doc/UserDocumentation_zh-Hans.md)
+
 ## Usage
 
 ### Start
