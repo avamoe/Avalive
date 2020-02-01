@@ -12,6 +12,9 @@
         <td>
             <a href="https://www.youtube.com/channel/UCv8I7x73RXZjGImJvMS6DbQ"><img src="https://raw.githubusercontent.com/avamoe/Avalive/master/Assets/Resources/YouTube-logo.png" height = "60"></a>
         </td>
+        <td>
+            <a href="https://space.bilibili.com/20761209"><img src="https://raw.githubusercontent.com/avamoe/Avalive/master/Assets/Resources/Bilibili-logo.png" height = "50"></a>
+        </td>
     </tr>
 </table>
 
