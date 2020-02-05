@@ -24,6 +24,16 @@ English | [简体中文](README_zh-Hans.md) | [繁體中文](README_zh-Hant.md) 
 
 Avalive is an avatar role-playing software. It allows the avatar's expression to be synchronized with your expression in real time through the camera, allowing you to play a virtual character. You can use it for live streaming, creating videos and animations, and more.
 
+## Features
+
+* Support English, Simplified Chinese, Traditional Chinese, Japanese
+* Support for Windows ( MacOS is temporarily unavailable )
+* Support for live broadcast using OBS, Streamlabs, XSplit, etc.
+* Multiple default avatars and backgrounds, support for importing custom avatars and backgrounds
+* Capture facial expressions and head movements
+* Mouse tracking, Lip tracking, Automatic breathing, Automatic blink
+* Support cloud archive (synchronize models, backgrounds and configurations)
+
 ## User Documentation
 
 [English](Doc/UserDocumentation.md) | [简体中文](Doc/UserDocumentation_zh-Hans.md)
