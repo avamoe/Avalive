@@ -71,3 +71,17 @@ The **background file** is the background image of Avalive. We recommend that yo
 This is a Yuru-chara, you can use mouse interaction, it can mouse tracking, lip tracking, automatic breathing, automatic blink.
 
 ![](../Assets/Resources/Avalive-Tutorial8.png)
+
+## Advanced Features
+
+### model
+
+#### Live2d Cubism v3 model to v2 model
+
+1. Download [Live2D Cubism Editor 3](https://www.live2d.com/download/cubism/) on the official website.
+
+2. Use `Live2D Cubism Editor 3` to open the v3 model, and the menu bar `Modeling` - `Convert Model ID`, convert the v2 model.
+    ![Live2DConversionOptions.png](../Assets/Resources/Live2DConversionOptions.png)
+
+3. `File` - `Export For Runtime` - `Export as moc file(For 2.1)`, saved as v2 runtime model.
+    ![LivedDExportRuntimeSettings.png](../Assets/Resources/LivedDExportRuntimeSettings.png)

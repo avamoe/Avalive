@@ -71,3 +71,17 @@
 你可以使用鼠标与看板娘交互，它可以做鼠标跟踪、唇形模仿、呼吸运动、自动眨眼。
 
 ![](../Assets/Resources/Avalive-Tutorial8.png)
+
+## 高级功能
+
+### 模型
+
+#### Live2d Cubism v3 模型转换为 v2 模型
+
+1. 官网下载 [Live2D Cubism Editor 3](https://www.live2d.com/download/cubism/) 软件。
+
+2. 使用 `Live2D Cubism Editor 3` 打开 v3 模型，菜单栏 `Modeling` - `Convert Model ID`，转化 v2 模型。
+    ![Live2DConversionOptions.png](../Assets/Resources/Live2DConversionOptions.png)
+
+3. `File` - `Export For Runtime` - `Export as moc file(For 2.1)`，保存为 v2 的 Runtime 模型。
+    ![LivedDExportRuntimeSettings.png](../Assets/Resources/LivedDExportRuntimeSettings.png)
