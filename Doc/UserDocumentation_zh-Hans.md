@@ -76,11 +76,11 @@
 
 ### 模型
 
-#### Live2d Cubism v3 模型转换为 v2 模型
+#### Live2d Cubism v3 模型转换为 v2 模型（需要 cmo3 文件）
 
 1. 官网下载 [Live2D Cubism Editor 3](https://www.live2d.com/download/cubism/) 软件。
 
-2. 使用 `Live2D Cubism Editor 3` 打开 v3 模型，菜单栏 `Modeling` - `Convert Model ID`，转化 v2 模型。
+2. 使用 `Live2D Cubism Editor 3` 打开模型的 `cmo3`，菜单栏 `Modeling` - `Convert Model ID`，转化 v2 模型。
     ![Live2DConversionOptions.png](../Assets/Resources/Live2DConversionOptions.png)
 
 3. `File` - `Export For Runtime` - `Export as moc file(For 2.1)`，保存为 v2 的 Runtime 模型。

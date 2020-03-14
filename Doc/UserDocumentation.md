@@ -76,11 +76,11 @@ This is a Yuru-chara, you can use mouse interaction, it can mouse tracking, lip 
 
 ### model
 
-#### Live2d Cubism v3 model to v2 model
+#### Live2d Cubism v3 model to v2 model（cmo3 file required）
 
 1. Download [Live2D Cubism Editor 3](https://www.live2d.com/download/cubism/) on the official website.
 
-2. Use `Live2D Cubism Editor 3` to open the v3 model, and the menu bar `Modeling` - `Convert Model ID`, convert the v2 model.
+2. Use `Live2D Cubism Editor 3` to open `cmo3` file of model, and the menu bar `Modeling` - `Convert Model ID`, convert the v2 model.
     ![Live2DConversionOptions.png](../Assets/Resources/Live2DConversionOptions.png)
 
 3. `File` - `Export For Runtime` - `Export as moc file(For 2.1)`, saved as v2 runtime model.
